@@ -13,7 +13,7 @@ This project delves into a comprehensive analysis of customer complaints in the 
 
 # Dataset 
 
-For this project, I will be using the dataset - Customer Complaint Full Data and State Full.
+For this project, I will be using the dataset - Customer Complaint Full Data and State Map Full.
 
 # Dashboard :
 
